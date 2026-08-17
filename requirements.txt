@@ -2,3 +2,5 @@ langchain
 langchain-ollama
 python-dotenv
 langgraph
+fastmcp
+langchain-mcp-adapters
